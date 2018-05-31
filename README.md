@@ -3,7 +3,7 @@ A simple slot machine game that determines the next NBA Champion based on a cust
 
 The default team is set to last year's NBA Champion, the Golden State Warriors.
 
-Before Play                                          |  Play Win
+Before Play (Default: current NBA Champion)          |  After Play (Win Result: next expected NBA Champion)
 :---------------------------------------------------:|:---------------------------------------------------:
 ![](https://people.rit.edu/~dl2224/252/initial.png)  |  ![](https://people.rit.edu/~dl2224/252/result.png)
 
